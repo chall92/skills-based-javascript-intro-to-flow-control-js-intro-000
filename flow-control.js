@@ -23,10 +23,10 @@ switch(age) {
   case (age >=13 && age <= 19):
   'You are a teenager';
    break;
-  case (age > 19):
+  case (age >= 20):
   'You are a grownup';
   break;
- case (age < 13):
+ case (age <= 12):
  'You are a kid';
  break;
  default:
