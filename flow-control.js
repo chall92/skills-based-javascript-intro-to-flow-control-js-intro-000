@@ -30,6 +30,6 @@ switch(age) {
  'You are a kid';
  break;
  default:
- 'You have an age'
+ 'You have an age';
 }
 }
